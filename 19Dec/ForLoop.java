@@ -24,6 +24,8 @@ public class ForLoop {
            arr3[i]=arr1[i]+arr2[i];
 
            System.out.print(arr3[i]+" ");//11 22 33
+           System.out.print("Happy Ending");
+           
         }
 
 
